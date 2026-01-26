@@ -84,3 +84,19 @@ algorithms, or policies.
 It provides a unifying conceptual boundary
 for understanding regime transitions
 in complex systems.
+
+---
+
+## Canonical Dilemmas Overview
+
+| Domain                | Core Mechanism        | Failure Mode                          | Admissibility Boundary |
+|----------------------|----------------------|---------------------------------------|------------------------|
+| Quantum measurement  | Decoherence          | Classical outcome enforcement          | Loss of descriptive viability |
+| Control systems      | Feedback regulation  | Global instability                    | Control exceeds viable scale |
+| Cognitive systems    | Free energy minimization | Rigidity / pathology               | Over-adaptation |
+| Biology & aging      | Protection & repair  | Senescence / inflammation              | Protective mechanisms persist beyond context |
+| Metrics & incentives | Optimization         | Goodhart collapse                     | Measurement dominates value |
+| Energy efficiency    | Cost reduction       | Rebound / scale explosion              | Scale outpaces benefit |
+
+The mechanism differs in each case.
+The failure structure does not.
