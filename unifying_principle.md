@@ -60,6 +60,20 @@ The admissibility principle fills this gap.
 
 ---
 
+### Admissibility as an Invariant Constraint
+
+In physics, invariants constrain the space of admissible states before any dynamics is considered.
+They do not describe how a system evolves, but which states are physically coherent at all.
+
+Admissibility plays the same structural role across complex systems.
+It does not optimize behavior or correct trajectories;
+it constrains the state space ex-ante by excluding regimes that violate value–cost–scale proportionality.
+
+What violates an invariant is not unstable — it is inadmissible.
+What violates admissibility is not inefficient — it is structurally non-viable.
+
+---
+
 ## A Law of Limits
 
 Admissibility is not a new dynamic.
