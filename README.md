@@ -26,6 +26,18 @@ When the threshold is crossed, the system changes regime.
 
 ---
 
+## Admissibility via Invariants (physics analogy)
+
+In physics, **invariants** constrain the space of admissible states *before* any dynamics is considered.
+A classic example is the relativistic energy–momentum relation, which restricts what can be physically consistent.
+
+This repository uses the same structural idea:
+- we do not optimize trajectories first and then “fix” inconsistencies,
+- we **constrain the state space ex-ante** using a minimal admissibility index.
+
+**Congruity / Admissibility is a law-of-limits framing, not an optimization recipe.**
+It answers: *which states are structurally viable once cost, scale, and complexity are accounted for?*
+
 ## How to Use This Repo
 
 1. Read `start_here.md`
